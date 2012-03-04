@@ -41,7 +41,7 @@ libraries are being used.
 
 * [netty](http://netty.io) the wonderful netty lib is used for all socket stuff
 * [scalatra](http://scalatra.org) is used for the rest interface
-* [lift-json](https://github.com/lift/lift/tree/master/framework/lift-base/lift-json/) for SQL escaping
+* [lift-json](https://github.com/lift/lift/tree/master/framework/lift-base/lift-json/) for everything json 
 
 ## Testing
 
